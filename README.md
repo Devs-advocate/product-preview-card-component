@@ -32,7 +32,7 @@ This challenge required the recreation of the web pages provided using desktop a
 ### Links
 
 - Solution URL: [Github](https://github.com/Devs-advocate/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://devs-advocate.github.io/product-preview-card-component)
 
 ## My process
 
